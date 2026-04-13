@@ -18,7 +18,7 @@ I’m always eager to learn new technologies, explore modern development practic
 	<a href="https://www.linkedin.com/in/hamza-mughal-50463a342/" target="blank"><img align="center"
 			src="https://skillicons.dev/icons?i=linkedin" height="50" width="50" alt="linkedin" /></a>
 	<a href="https://www.instagram.com/hamza_mughal_official11/" target="blank" style="padding:8px"><img align="center"
-			src="https://skillicons.dev/icons?i=instagram" alt="mabdullah" height="50" width="50" /></a
+			src="https://skillicons.dev/icons?i=instagram" alt="mabdullah" height="50" width="50" /></a>
 </p>
 <hr>
 
