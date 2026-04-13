@@ -1,6 +1,7 @@
 # Github-Readme<div align="center">
   
-# 👨‍💻 MERN STACK DEVELOPER
+<h3 align="center" style="margin-top: 4px;">A PASSIONATED MERN STACK DEVELOPER!</h3>
+ 
 
 </div>
 
@@ -42,7 +43,6 @@ I’m always eager to learn new technologies, explore modern development practic
 	<a href="https://socket.io/" target="_blank" rel="noreferrer"
 		title="Socket.IO for Real Time Updating low-latency communication" style="text-decoration: none;">
 		<img src="https://socket.io/images/logo.svg" alt="socket.IO" width="40" height="40" />
-	</a>
 	</a>
 	<a href="https://cloud.google.com/dialogflow" target="_blank" title="DialogFlow for ChatBots by Sir Inzamam"
 		style="text-decoration: none;">
