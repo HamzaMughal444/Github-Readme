@@ -92,15 +92,15 @@ I’m always eager to learn new technologies, explore modern development practic
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HamzaMughal444 &show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaMughal444 &layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaMughal444&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180em" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaMughal444 &theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaMughal444&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HamzaMughal444 &theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HamzaMughal444&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
@@ -108,21 +108,10 @@ I’m always eager to learn new technologies, explore modern development practic
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HamzaMughal444 &theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=HamzaMughal444&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies" />
 </div>
 
----
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HamzaMughal444&repo=YOUR_REPO_NAME&theme=tokyonight)](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HamzaMughal444&repo=YOUR_REPO_NAME_2&theme=tokyonight)](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME_2)
-
-</div>
-
----
 
 ## 💡 Random Dev Quote
 
@@ -135,7 +124,7 @@ I’m always eager to learn new technologies, explore modern development practic
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/HamzaMughal444 /output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/HamzaMughal444/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
