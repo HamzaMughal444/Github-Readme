@@ -30,7 +30,7 @@ I’m always eager to learn new technologies, explore modern development practic
 	<img src="https://skillicons.dev/icons?i=react,express,mongodb,nodejs,ts" />
 	<img src="https://skillicons.dev/icons?i=postman,vercel" />
 	<img src="https://skillicons.dev/icons?i=redux,md,materialui,firebase" />
-	<a href="#">
+	<!-- <a href="#">
 		<img alt="GitHub" title="GitHub" width="40" height="40" src="./images/github.png" style="padding-right:5px;" />
 	</a>
 	<a href="https://nextjs.org/" target="_blank" rel="noreferrer" title="NextJS in PIAIC">
@@ -38,15 +38,15 @@ I’m always eager to learn new technologies, explore modern development practic
 	</a>
 	<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer" title="NPM" style="text-decoration: none;">
 		<img src="./images/icons8-npm-48.png" alt="NPM" width="40" height="40" />
-	</a>
+	</a> -->
 	<a href="https://socket.io/" target="_blank" rel="noreferrer"
 		title="Socket.IO for Real Time Updating low-latency communication" style="text-decoration: none;">
 		<img src="https://socket.io/images/logo.svg" alt="socket.IO" width="40" height="40" />
 	</a>
-	<a href="https://cloud.google.com/dialogflow" target="_blank" title="DialogFlow for ChatBots by Sir Inzamam"
+	<!-- <a href="https://cloud.google.com/dialogflow" target="_blank" title="DialogFlow for ChatBots by Sir Inzamam"
 		style="text-decoration: none;">
 		<img src="./images/dialogflow.png" width="40px" />
-	</a>
+	</a> -->
 </p>
 
 <hr>
