@@ -2,7 +2,6 @@
 <h3 align="center" style="margin-top: 4px;">A PASSIONATED MERN STACK DEVELOPER!</h3>
  
 
-</div>
 
 
 I’m a passionate MERN Stack Developer who loves building modern, scalable, and user-friendly web applications. I specialize in developing full-stack solutions using MongoDB, Express.js, React, and Node.js, with a strong focus on clean code, performance, and responsive design.
@@ -52,4 +51,3 @@ I’m always eager to learn new technologies, explore modern development practic
 <hr>
 
 
-</div>
