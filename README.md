@@ -3,10 +3,10 @@
  
 
 
-
+<p>
 I’m a passionate MERN Stack Developer who loves building modern, scalable, and user-friendly web applications. I specialize in developing full-stack solutions using MongoDB, Express.js, React, and Node.js, with a strong focus on clean code, performance, and responsive design.
 I enjoy turning ideas into real-world digital products by creating intuitive user interfaces and efficient backend systems. From designing RESTful APIs to building dynamic and interactive frontends, I aim to deliver seamless user experiences.
-I’m always eager to learn new technologies, explore modern development practices, and continuously improve my skills. I enjoy solving real-world problems through code and collaborating on meaningful projects that create impact.
+I’m always eager to learn new technologies, explore modern development practices, and continuously improve my skills. I enjoy solving real-world problems through code and collaborating on meaningful projects that create impact.</p>
 
 
 
