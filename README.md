@@ -10,7 +10,6 @@ I’m a passionate MERN Stack Developer who loves building modern, scalable, and
 I enjoy turning ideas into real-world digital products by creating intuitive user interfaces and efficient backend systems. From designing RESTful APIs to building dynamic and interactive frontends, I aim to deliver seamless user experiences.
 I’m always eager to learn new technologies, explore modern development practices, and continuously improve my skills. I enjoy solving real-world problems through code and collaborating on meaningful projects that create impact.
 
----
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
@@ -21,11 +20,6 @@ I’m always eager to learn new technologies, explore modern development practic
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
-
----
-
----
 
 ## 🌐 Connect with me on 🔗:
 
@@ -43,8 +37,6 @@ I’m always eager to learn new technologies, explore modern development practic
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" />
   </a> -->
 </p>
-
----
 
 ## 🛠️ Languages and Tools 🧰:
 
@@ -68,9 +60,6 @@ I’m always eager to learn new technologies, explore modern development practic
   
   <!-- Database -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="45" height="45"/>
   
   <!-- DevOps & Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
@@ -86,12 +75,11 @@ I’m always eager to learn new technologies, explore modern development practic
 
 </p>
 
----
 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HamzaMughal444 &show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HamzaMughal444&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaMughal444&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180em" />
 </div>
 
@@ -102,8 +90,6 @@ I’m always eager to learn new technologies, explore modern development practic
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HamzaMughal444&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
-
----
 
 ## 🏆 GitHub Trophies
 
