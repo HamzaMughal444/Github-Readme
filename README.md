@@ -110,7 +110,7 @@ I’m always eager to learn new technologies, explore modern development practic
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/HamzaMughal444/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/HamzaMughal444/HamzaMughal444/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
